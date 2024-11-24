@@ -1,0 +1,76 @@
+,TEXT_BANK,AGE_CATEGORY,TARGET_RATE
+0,Air Bank a.s.,18 - 29,12.871287128712872
+1,Air Bank a.s.,30 - 42,6.763285024154589
+2,Air Bank a.s.,43 - 55,2.564102564102564
+3,Air Bank a.s.,56 - 68,13.636363636363635
+4,Air Bank a.s.,69 - 84,20.0
+5,Anonymous Bank,18 - 29,35.714285714285715
+6,Anonymous Bank,30 - 42,22.22222222222222
+7,Anonymous Bank,43 - 55,25.0
+8,Anonymous Bank,56 - 68,0.0
+9,Anonymous Bank,69 - 84,0.0
+10,"BNP Paribas Personal Finance SA, odštěpný závod",18 - 29,33.33333333333333
+11,"BNP Paribas Personal Finance SA, odštěpný závod",30 - 42,0.0
+12,"BNP Paribas Personal Finance SA, odštěpný závod",43 - 55,0.0
+13,"BNP Paribas Personal Finance SA, odštěpný závod",56 - 68,
+14,"BNP Paribas Personal Finance SA, odštěpný závod",69 - 84,
+15,Banka CREDITAS a.s.,18 - 29,0.0
+16,Banka CREDITAS a.s.,30 - 42,0.0
+17,Banka CREDITAS a.s.,43 - 55,
+18,Banka CREDITAS a.s.,56 - 68,
+19,Banka CREDITAS a.s.,69 - 84,
+20,Equa bank a.s.,18 - 29,8.482142857142858
+21,Equa bank a.s.,30 - 42,9.523809523809524
+22,Equa bank a.s.,43 - 55,3.125
+23,Equa bank a.s.,56 - 68,14.285714285714285
+24,Equa bank a.s.,69 - 84,0.0
+25,"Fio banka, a.s.",18 - 29,10.416666666666668
+26,"Fio banka, a.s.",30 - 42,8.333333333333332
+27,"Fio banka, a.s.",43 - 55,5.0
+28,"Fio banka, a.s.",56 - 68,0.0
+29,"Fio banka, a.s.",69 - 84,0.0
+30,"Komerční banka, a.s.",18 - 29,10.984848484848484
+31,"Komerční banka, a.s.",30 - 42,6.134969325153374
+32,"Komerční banka, a.s.",43 - 55,5.555555555555555
+33,"Komerční banka, a.s.",56 - 68,0.0
+34,"Komerční banka, a.s.",69 - 84,0.0
+35,"MONETA Money Bank, a.s.",18 - 29,10.077519379844961
+36,"MONETA Money Bank, a.s.",30 - 42,5.5
+37,"MONETA Money Bank, a.s.",43 - 55,5.376344086021505
+38,"MONETA Money Bank, a.s.",56 - 68,3.8461538461538463
+39,"MONETA Money Bank, a.s.",69 - 84,16.666666666666664
+40,Raiffeisenbank a.s.,18 - 29,12.096774193548388
+41,Raiffeisenbank a.s.,30 - 42,13.333333333333334
+42,Raiffeisenbank a.s.,43 - 55,20.33898305084746
+43,Raiffeisenbank a.s.,56 - 68,62.5
+44,Raiffeisenbank a.s.,69 - 84,0.0
+45,"Sberbank CZ, a.s.",18 - 29,0.0
+46,"Sberbank CZ, a.s.",30 - 42,0.0
+47,"Sberbank CZ, a.s.",43 - 55,0.0
+48,"Sberbank CZ, a.s.",56 - 68,
+49,"Sberbank CZ, a.s.",69 - 84,
+50,"UniCredit Bank Czech Republic and Slovakia, a.s.",18 - 29,15.09433962264151
+51,"UniCredit Bank Czech Republic and Slovakia, a.s.",30 - 42,1.7241379310344827
+52,"UniCredit Bank Czech Republic and Slovakia, a.s.",43 - 55,11.11111111111111
+53,"UniCredit Bank Czech Republic and Slovakia, a.s.",56 - 68,0.0
+54,"UniCredit Bank Czech Republic and Slovakia, a.s.",69 - 84,100.0
+55,Waldviertler Sparkasse Bank AG,18 - 29,0.0
+56,Waldviertler Sparkasse Bank AG,30 - 42,0.0
+57,Waldviertler Sparkasse Bank AG,43 - 55,
+58,Waldviertler Sparkasse Bank AG,56 - 68,
+59,Waldviertler Sparkasse Bank AG,69 - 84,
+60,"mBank S.A., organizační složka",18 - 29,5.405405405405405
+61,"mBank S.A., organizační složka",30 - 42,16.666666666666664
+62,"mBank S.A., organizační složka",43 - 55,28.57142857142857
+63,"mBank S.A., organizační složka",56 - 68,20.0
+64,"mBank S.A., organizační složka",69 - 84,
+65,"Československá obchodní banka, a.s.",18 - 29,8.201892744479496
+66,"Československá obchodní banka, a.s.",30 - 42,7.0588235294117645
+67,"Československá obchodní banka, a.s.",43 - 55,1.0752688172043012
+68,"Československá obchodní banka, a.s.",56 - 68,13.043478260869565
+69,"Československá obchodní banka, a.s.",69 - 84,28.57142857142857
+70,"Česká spořitelna, a.s.",18 - 29,11.566617862371888
+71,"Česká spořitelna, a.s.",30 - 42,7.627118644067797
+72,"Česká spořitelna, a.s.",43 - 55,14.093959731543624
+73,"Česká spořitelna, a.s.",56 - 68,27.659574468085108
+74,"Česká spořitelna, a.s.",69 - 84,10.0
